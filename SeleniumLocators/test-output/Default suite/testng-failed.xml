@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.exercise1.OpenCartLogin">
+      <class name="com.exercise2.EMTDefineMethodsAndObjectRepository">
         <methods>
-          <include name="UserRegistrationProcess"/>
+          <include name="LaunchBrowser"/>
         </methods>
-      </class> <!-- com.exercise1.OpenCartLogin -->
+      </class> <!-- com.exercise2.EMTDefineMethodsAndObjectRepository -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
