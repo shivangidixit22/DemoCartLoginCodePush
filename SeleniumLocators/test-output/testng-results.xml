@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-18T12:09:05 IST" name="Default suite" finished-at="2023-05-18T12:09:15 IST" duration-ms="9944">
+    <groups>
+    </groups>
+    <test started-at="2023-05-18T12:09:05 IST" name="Default test" finished-at="2023-05-18T12:09:15 IST" duration-ms="9944">
+      <class name="com.exercise1.OpenCartLogin">
+        <test-method signature="UserRegistrationProcess()[pri:0, instance:com.exercise1.OpenCartLogin@1ecfcbc9]" started-at="2023-05-18T12:09:05 IST" name="UserRegistrationProcess" finished-at="2023-05-18T12:09:14 IST" duration-ms="9885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserRegistrationProcess -->
+      </class> <!-- com.exercise1.OpenCartLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
