@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-18T15:03:17 IST" name="Default suite" finished-at="2023-05-18T15:04:03 IST" duration-ms="45749">
+  <suite started-at="2023-05-18T17:47:09 IST" name="Default suite" finished-at="2023-05-18T17:48:04 IST" duration-ms="55247">
     <groups>
     </groups>
-    <test started-at="2023-05-18T15:03:17 IST" name="Default test" finished-at="2023-05-18T15:04:03 IST" duration-ms="45749">
-      <class name="com.exercise2.EaseMyTrip">
-        <test-method signature="EaseMyTripWebsite()[pri:0, instance:com.exercise2.EaseMyTrip@49c7b90e]" started-at="2023-05-18T15:03:17 IST" name="EaseMyTripWebsite" finished-at="2023-05-18T15:04:03 IST" duration-ms="45714" status="PASS">
+    <test started-at="2023-05-18T17:47:09 IST" name="Default test" finished-at="2023-05-18T17:48:04 IST" duration-ms="55247">
+      <class name="com.exercise3.AgeCalculator">
+        <test-method signature="AgeCalculatorWebsite()[pri:0, instance:com.exercise3.AgeCalculator@49c7b90e]" started-at="2023-05-18T17:47:09 IST" name="AgeCalculatorWebsite" finished-at="2023-05-18T17:48:04 IST" duration-ms="55212" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- EaseMyTripWebsite -->
-      </class> <!-- com.exercise2.EaseMyTrip -->
+        </test-method> <!-- AgeCalculatorWebsite -->
+      </class> <!-- com.exercise3.AgeCalculator -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
