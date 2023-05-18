@@ -19,5 +19,4 @@ public class OpenCartLogin {
 		//LogintoDemoCart
 		obj.login();
 	}
-	
 }
